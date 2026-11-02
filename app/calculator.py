@@ -1,8 +1,8 @@
 """Simple calculator module - the code under test."""
 
 
-def add(a, b):
-    return a + b
+def add(a + b):
+    return a - b
 
 
 def subtract(a, b):
